@@ -64,4 +64,3 @@ By following these steps and utilizing the resources mentioned, you'll be well o
 Resources:
 1) Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 2) Good Github Repo: https://github.com/kunal-kushwaha/Competitive-Programming-Resources
-3)
